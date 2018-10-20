@@ -1,13 +1,12 @@
 # Site
-title:              Massively
+title:              Marius Gundersen
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "gundersen.xyz" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-formspree_thankyou_page: /thank-you
 
 defaults:
 - scope:
@@ -44,9 +43,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Oslo, Norway
+phone:              0047 478 18 116
+email:              marius@gundersen.xyz
 
 # Gems
 gems:
