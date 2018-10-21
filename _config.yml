@@ -32,19 +32,15 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
-
 # Social
 analytics-id:       "UA-99819118-1"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            'm_gundersen'
+facebook:           'MariusgGundersen'
+github:             'igundersen'
 
 # personal
 location:           Oslo, Norway
-phone:              +47 4747818116
+phone:              +47 478-18-116
 email:              marius@gundersen.xyz
 
 # Gems

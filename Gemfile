@@ -6,3 +6,4 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
+gem 'jekyll-compose', group: [:jekyll_plugins]
